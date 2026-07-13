@@ -1,0 +1,15 @@
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/bin/Debug/net10.0/Days 0
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/bin/Debug/net10.0/Days 0.deps.json
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/bin/Debug/net10.0/Days 0.runtimeconfig.json
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/bin/Debug/net10.0/Days 0.dll
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/bin/Debug/net10.0/Days 0.pdb
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/obj/Debug/net10.0/Days 0.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/obj/Debug/net10.0/Days 0.AssemblyInfoInputs.cache
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/obj/Debug/net10.0/Days 0.AssemblyInfo.cs
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/obj/Debug/net10.0/Days 0.csproj.CoreCompileInputs.cache
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/obj/Debug/net10.0/Days 0.sourcelink.json
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/obj/Debug/net10.0/Days 0.dll
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/obj/Debug/net10.0/refint/Days 0.dll
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/obj/Debug/net10.0/Days 0.pdb
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/obj/Debug/net10.0/Days 0.genruntimeconfig.cache
+/workspaces/30-Days-of-code-de-Hackeran-/Hackerank/Days 0/obj/Debug/net10.0/ref/Days 0.dll
